@@ -1,0 +1,9 @@
+# IDEs
+.idea
+.vs
+.vscode
+
+# Keys
+**/*.key
+
+**/.env
